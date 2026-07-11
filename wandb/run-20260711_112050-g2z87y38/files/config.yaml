@@ -1,0 +1,70 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            e7ydvwaywb4aik8mhfbff36sea2c5vxi:
+                codePath: /home/sandro/ML_final/model_experiment_LightGBM.ipynb
+                codePathLocal: model_experiment_LightGBM.ipynb
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "249792131072"
+                        used: "198343143424"
+                email: slomi23@freeuni.edu.ge
+                executable: /home/sandro/anaconda3/envs/cs224n/bin/python
+                git:
+                    commit: 45472b69feb860a5e4273fcd1213798cbfb3e6ea
+                    remote: git@github.com:slomi23/ML_final.git
+                host: sandro-Lenovo-V15-G2-ITL
+                memory:
+                    total: "20760645632"
+                os: Linux-6.17.0-35-generic-x86_64-with-glibc2.39
+                program: /home/sandro/ML_final/model_experiment_LightGBM.ipynb
+                python: CPython 3.13.12
+                root: /home/sandro/ML_final
+                startedAt: "2026-07-11T07:20:50.339667Z"
+                writerId: e7ydvwaywb4aik8mhfbff36sea2c5vxi
+        m: []
+        python_version: 3.13.12
+        t:
+            "1":
+                - 5
+                - 8
+                - 53
+                - 54
+            "2":
+                - 5
+                - 8
+                - 53
+                - 54
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.12
+            "5": 0.28.0
+            "8":
+                - 1
+            "12": 0.28.0
+            "13": linux-x86_64
+colsample_bytree:
+    value: 0.8
+early_stopping_rounds:
+    value: 20
+learning_rate:
+    value: 0.05
+max_depth:
+    value: 6
+metric:
+    value: mae
+n_estimators:
+    value: 500
+num_leaves:
+    value: 31
+objective:
+    value: regression
+random_state:
+    value: 42
+subsample:
+    value: 0.8
