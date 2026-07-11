@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.13.7",
+  "startedAt": "2026-07-11T09:29:17.720862Z",
+  "program": "model_experiment_DLinear.ipynb",
+  "codePath": "model_experiment_DLinear.ipynb",
+  "codePathLocal": "model_experiment_DLinear.ipynb",
+  "git": {
+    "remote": "https://github.com/slomi23/ML_final.git",
+    "commit": "76e2998b102dbaed7a487482aa0467c782138bd8"
+  },
+  "email": "slomi23@freeuni.edu.ge",
+  "root": "C:\\me\\2025_2026\\ML\\final\\ML_final",
+  "host": "TsotneSh",
+  "executable": "C:\\Users\\cotne\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "510870417408",
+      "used": "338676133888"
+    }
+  },
+  "memory": {
+    "total": "16874594304"
+  },
+  "writerId": "l648mk0icfznb3knowawl2avcx85pnq3"
+}
