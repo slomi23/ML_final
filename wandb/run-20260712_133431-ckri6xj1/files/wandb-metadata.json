@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.17.0-35-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.12",
+  "startedAt": "2026-07-12T09:34:31.689155Z",
+  "program": "/home/sandro/ML_final/model_experiment_NBeats.ipynb",
+  "codePath": "/home/sandro/ML_final/model_experiment_NBeats.ipynb",
+  "codePathLocal": "model_experiment_NBeats.ipynb",
+  "git": {
+    "remote": "git@github.com:slomi23/ML_final.git",
+    "commit": "f56ee0fa3270693bdd33bcb0ff14f4fae63fd23e"
+  },
+  "email": "slomi23@freeuni.edu.ge",
+  "root": ".",
+  "host": "sandro-Lenovo-V15-G2-ITL",
+  "executable": "/home/sandro/anaconda3/envs/cs224n/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "249792131072",
+      "used": "198983516160"
+    }
+  },
+  "memory": {
+    "total": "20760645632"
+  },
+  "writerId": "yk3awr4dzgz3y2lrod515kygh7gweur6"
+}
