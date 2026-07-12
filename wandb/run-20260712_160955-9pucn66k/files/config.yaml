@@ -1,0 +1,67 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            09e4wthwnpqj4f8vj1jg9qnxas0hkw3c:
+                codePath: model_experiment_DLinear.ipynb
+                codePathLocal: model_experiment_DLinear.ipynb
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "510870417408"
+                        used: "339293343744"
+                email: slomi23@freeuni.edu.ge
+                executable: C:\Users\cotne\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: b1148d409083a4d9b7fa4c20e45d90f115273556
+                    remote: https://github.com/slomi23/ML_final.git
+                host: TsotneSh
+                memory:
+                    total: "16874594304"
+                os: Windows-11-10.0.26200-SP0
+                program: model_experiment_DLinear.ipynb
+                python: CPython 3.13.7
+                root: C:\me\2025_2026\ML\final\ML_final
+                startedAt: "2026-07-12T12:09:55.981221Z"
+                writerId: 09e4wthwnpqj4f8vj1jg9qnxas0hkw3c
+        m: []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.7
+            "5": 0.28.0
+            "8":
+                - 1
+                - 3
+            "12": 0.28.0
+            "13": windows-amd64
+batch_size:
+    value: 256
+early_stopping_patience:
+    value: 10
+kernel_size:
+    value: 25
+lookback:
+    value: 52
+lr:
+    value: 0.001
+max_epochs:
+    value: 100
+model_type:
+    value: DLinear
+run_name:
+    value: DLinear_baseline
+seed:
+    value: 42
