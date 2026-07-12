@@ -1,0 +1,19 @@
+{"time":"2026-07-11T15:44:36.243150927+04:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-07-11T15:44:36.243725937+04:00","level":"INFO","msg":"stream: starting","core version":"0.28.0"}
+{"time":"2026-07-11T15:44:36.718752633+04:00","level":"INFO","msg":"stream: created new stream","id":"n3svwyqw"}
+{"time":"2026-07-11T15:44:36.7188918+04:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-07-11T15:44:36.719061226+04:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-07-11T15:44:36.719128445+04:00","level":"INFO","msg":"writer: started","stream_id":"n3svwyqw"}
+{"time":"2026-07-11T15:44:36.719158228+04:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-07-11T15:44:43.102433148+04:00","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":2}
+{"time":"2026-07-11T15:44:43.619276056+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:44:58.102850166+04:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":0,"events_lines":1}
+{"time":"2026-07-11T15:44:58.462075417+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:45:02.465944115+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-07-11T15:45:02.466152449+04:00","level":"INFO","msg":"filestream: sending request","total_files":1,"uploaded_len":2,"complete":true,"exit_code":0}
+{"time":"2026-07-11T15:45:02.865746758+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:45:02.869834335+04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-07-11T15:45:02.879541619+04:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-07-11T15:45:02.879575343+04:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-07-11T15:45:02.87963823+04:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-07-11T15:45:02.879651735+04:00","level":"INFO","msg":"stream: all finished"}

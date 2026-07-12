@@ -1,0 +1,15 @@
+{"time":"2026-07-11T15:18:24.427224929+04:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-07-11T15:18:24.427622029+04:00","level":"INFO","msg":"stream: starting","core version":"0.28.0"}
+{"time":"2026-07-11T15:18:24.882754077+04:00","level":"INFO","msg":"stream: created new stream","id":"j40jld3d"}
+{"time":"2026-07-11T15:18:24.882827323+04:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-07-11T15:18:24.882935344+04:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-07-11T15:18:24.882952644+04:00","level":"INFO","msg":"writer: started","stream_id":"j40jld3d"}
+{"time":"2026-07-11T15:18:24.882990183+04:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-07-11T15:18:30.961910871+04:00","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":1}
+{"time":"2026-07-11T15:18:31.420061248+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:18:45.966714638+04:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":0,"events_lines":1,"uploaded_len":1}
+{"time":"2026-07-11T15:18:46.272455743+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:19:00.962631185+04:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1,"events_lines":1}
+{"time":"2026-07-11T15:19:01.253240135+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-11T15:19:15.962412423+04:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":2,"events_lines":1}
+{"time":"2026-07-11T15:19:16.242643462+04:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}

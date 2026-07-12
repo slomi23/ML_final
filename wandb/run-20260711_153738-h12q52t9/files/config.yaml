@@ -1,0 +1,48 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            ggcjyoz20zmyfele8a0fwooab4a9vx4h:
+                codePath: /home/sandro/ML_final/model_experiment_Prophet.ipynb
+                codePathLocal: model_experiment_Prophet.ipynb
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "249792131072"
+                        used: "198686568448"
+                email: slomi23@freeuni.edu.ge
+                executable: /home/sandro/anaconda3/envs/cs224n/bin/python
+                git:
+                    commit: 76e2998b102dbaed7a487482aa0467c782138bd8
+                    remote: git@github.com:slomi23/ML_final.git
+                host: sandro-Lenovo-V15-G2-ITL
+                memory:
+                    total: "20760645632"
+                os: Linux-6.17.0-35-generic-x86_64-with-glibc2.39
+                program: /home/sandro/ML_final/model_experiment_Prophet.ipynb
+                python: CPython 3.13.12
+                root: /home/sandro/ML_final
+                startedAt: "2026-07-11T11:37:38.814677Z"
+                writerId: ggcjyoz20zmyfele8a0fwooab4a9vx4h
+        m: []
+        python_version: 3.13.12
+        t:
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.12
+            "5": 0.28.0
+            "8":
+                - 1
+            "12": 0.28.0
+            "13": linux-x86_64
+daily_seasonality:
+    value: false
+interval_width:
+    value: 0.8
+weekly_seasonality:
+    value: true
+yearly_seasonality:
+    value: true
